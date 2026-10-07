@@ -5,7 +5,8 @@
 ## Integrantes
 
 - Renan Eskildssen – RM 571097
-- *(adicione os demais integrantes, se o trabalho for em grupo)*
+- Murillo Boyajian - RM 570774
+- Lucas Barros - RM 571528
 
 ## Tarefa
 
